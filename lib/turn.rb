@@ -25,6 +25,8 @@ def move(board, index, player="X")
   return board
 end
 
+
+
 def turn(board)
   loop do
     puts "Please enter 1-9:"
